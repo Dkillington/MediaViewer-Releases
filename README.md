@@ -4,7 +4,11 @@ A Windows desktop library for your local games and movies.
 
 ## Download
 
-[Download Media Viewer 1.0](https://github.com/Dkillington/MediaViewer-Releases/releases/tag/v1.0.0)
+[**Download Media Viewer for Windows**](https://github.com/Dkillington/MediaViewer-Releases/releases/latest/download/Dkillington.MediaViewer-win-Setup.exe)
+
+Run the downloaded installer to set up the app. The desktop runtime is included; no separate .NET installation is needed.
+
+[Portable ZIP](https://github.com/Dkillington/MediaViewer-Releases/releases/latest/download/Dkillington.MediaViewer-win-Portable.zip) — extract the folder and open `MediaViewer.exe`. [Latest release notes](https://github.com/Dkillington/MediaViewer-Releases/releases/latest).
 
 - **Dkillington.MediaViewer-win-Setup.exe**: install the app and create shortcuts.
 - **Dkillington.MediaViewer-win-Portable.zip**: extract it to a folder and run Media Viewer.exe.
